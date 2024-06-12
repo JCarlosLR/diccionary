@@ -1,2 +1,2 @@
 # dixy
-Create diccionary
+Create script diccionary
